@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "njambo.data.unityweb",
+"asmCodeUrl": "njambo.asm.code.unityweb",
+"asmMemoryUrl": "njambo.asm.memory.unityweb",
+"asmFrameworkUrl": "njambo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
